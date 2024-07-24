@@ -4,7 +4,7 @@
 **Description:** A plugin to notify users of new posts in real-time.  
 **Version:** 1.0  
 **Author:** ronak3899  
-**Author URI:** [WordPress Profile](https://profiles.wordpress.org/ronak3899/)  
+**Author URI:** [https://profiles.wordpress.org/ronak3899/](https://profiles.wordpress.org/ronak3899/)  
 **Text Domain:** real-notify  
 
 ## Description
