@@ -1,0 +1,25 @@
+#popup_container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+#popup_container .real_notify_popup_notification.info {
+    margin-bottom: 2px;
+    font-size: 20px;
+    position: relative;
+    background-color: rgb(255 255 255);
+    color: rgb(0 0 0);
+    margin-right: 8px;
+    padding: 4px 8px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.real_notify_popup_notification .title {
+    display: block;
+}
+.real_notify_popup_notification .real-notify-close {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    cursor: pointer;
+}
