@@ -26,7 +26,7 @@ Real Notify is a WordPress plugin that sends real-time notifications to logged-i
 
 ## Usage
 
-1. **No Shortcode Required**  
+1. **No Configuration Required**  
    The plugin automatically displays notifications for all public post types when a new post is published.
 
 2. **Check Notifications**  
