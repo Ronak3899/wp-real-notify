@@ -1,32 +1,38 @@
-/* Real Notify styles */
-#popup_container {
-  position: fixed;
-  z-index: 9999;
-}
-#popup_container.top-left {
-  top: 10px;
-  left: 10px;
+.real-notify-preview {
+    margin-top: 20px;
 }
 
-#popup_container.top-right {
-  top: 10px;
-  right: 10px;
+.real_notify_popup_notification {
+    position: fixed;
+    z-index: 9999;
 }
 
-#popup_container.bottom-left {
-  bottom: 10px;
-  left: 10px;
+.real_notify_popup_notification.top-left {
+    top: 10px;
+    left: 10px;
 }
 
-#popup_container.bottom-right {
-  bottom: 10px;
-  right: 10px;
+.real_notify_popup_notification.top-right {
+    top: 10px;
+    right: 10px;
 }
-#popup_container.center-center {
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+
+.real_notify_popup_notification.bottom-left {
+    bottom: 10px;
+    left: 10px;
 }
+
+.real_notify_popup_notification.bottom-right {
+    bottom: 10px;
+    right: 10px;
+}
+
+.real_notify_popup_notification.center-center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 
 .real-notify h1,
 .real-notify h2,
@@ -36,6 +42,7 @@
 .real-notify h6 {
   margin: 10px 0 10px;
   font-weight: bold;
+  line-height: 1.2;
 }
 
 .real-notify h1 {
